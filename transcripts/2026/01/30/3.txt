@@ -1,0 +1,5 @@
+Databases modeling of real-world concepts in a model is a database, a system which manages
+a database.
+Earlier we had said based databases where we used pointers to actually manipulate the
+physical layer, but then came the relational guys and added the logic that logical is
+the abstracted layer and physical is the one underneath which is managed by the
